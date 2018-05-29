@@ -29,4 +29,4 @@ async def on_message(message):
     
 
 
-client.run("<token>") #Insert your bots token here
+client.run("NDUxMDQ4NDI0NjU4MTczOTUy.De8H9w.a4lC81nEawMeBVNOgiEGA-7-njE") #Insert your bots token here
